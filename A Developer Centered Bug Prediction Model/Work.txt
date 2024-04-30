@@ -1,0 +1,31 @@
+
+
+Project Developers--- Register with Company 
+
+       --- View Your Profile with company Name
+ 
+       --- View all Assigned Projects with all details
+
+       
+      
+     
+
+Manager -- Register with Company and Login
+
+ 
+       --- View All Team Members based on project
+
+       --- Add Projects with Project name and start date and end date,expected date
+
+       --- View all employees and select emp to Add Project with  Project name and start date and end date,expected date,assigned date,proj desc,proj module name,Add Proj Sub modules
+
+       --- View all added project details  
+
+       
+          
+       
+Admin  -- Register with Company
+
+       -- View all Project Developers and Authorize
+		
+       -- View all Managers and Authorize	

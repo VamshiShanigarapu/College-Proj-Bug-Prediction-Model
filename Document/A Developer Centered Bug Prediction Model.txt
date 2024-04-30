@@ -1,0 +1,65 @@
+
+
+Project Developers
+
+Register with Company 
+,View Your Profile with company Name
+,View all Assigned Projects with all details
+,Set defects and send to corresponding team member
+,Set defects and send to corresponding team manager
+,view all solutions based on team member and team manager
+,View all projects and select your projects to show the statuslike Open,closed,Completed,Withdrawn 
+,View all team members defects and give solution
+,View all assigned Projects extension details
+,add complexity of the project while developing 
+      
+     
+
+Manager -- Register with Company and Login
+
+ 
+       --- View All Team Members based on project
+
+       --- Add Projects with Project name and start date and end date,expected date
+
+       --- View all employees and select emp to Add Project
+
+       --- View all added project details and give edit option(proj desc,proj module name,Add Proj Sub modules)
+
+       --- View all team members defects and give solution or allote to other team members
+
+      --- Add extension dates for the project to deliver
+
+      --- View all projects status from team members
+
+        --- View all  complexity of the project while developing 
+
+    
+       
+Admin  -- Register with Company
+
+       -- View all Project Developers and Authorize
+		
+       -- View all Managers and Authorize
+
+       ---View All Team Members based on project
+
+       -- View all Bugs details from team members and manager and given solution with req date and res date	
+
+      --- View number of time occures same Bug for a project and give link to show in Chart
+
+      --- View No.Of team members for each project assigned in Chart
+
+
+
+
+Members
+
+
+ Project name and start date and end date,expected date,assigned date,proj desc,proj module name,Add Proj Sub modules
+
+
+
+
+
+
